@@ -6,5 +6,6 @@
 </head>
 <body>
 	<h1>git테스트프로젝트</h1>
+	<hr>
 </body>
 </html>
